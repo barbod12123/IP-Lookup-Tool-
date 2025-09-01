@@ -29,3 +29,7 @@ The program shows information about the IP, including:
 1. git cone https://github.com/barbod12123/IP-Lookup-Tool-.git
 2. cd IP-Lookup-Tool
 3. python 3 p.py
+
+4. **user , pass**
+5. admin
+6. 1234
