@@ -24,3 +24,7 @@ The program shows information about the IP, including:
 
 **Note**  
 **Private IP addresses** (like `192.168.x.x` or `10.x.x.x`) cannot provide geographical information.
+**Install**
+1. git cone https://github.com/barbod12123/IP-Lookup-Tool-.git
+2. cd IP-Lookup-Tool
+3. python 3 p.py
