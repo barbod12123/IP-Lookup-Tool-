@@ -31,5 +31,7 @@ The program shows information about the IP, including:
 3. python 3 p.py
 
 **user , pass**
+
 admin
+
 1234
