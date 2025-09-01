@@ -30,6 +30,6 @@ The program shows information about the IP, including:
 2. cd IP-Lookup-Tool
 3. python 3 p.py
 
-4. **user , pass**
-5. admin
-6. 1234
+**user , pass**
+admin
+1234
